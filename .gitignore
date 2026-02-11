@@ -1,0 +1,48 @@
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backup and editor files
+*~
+*.swp
+.DS_Store
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# PyInstaller
+dist/
+build/
+
+# Distribution / packaging
+*.egg-info/
+.eggs/
+
+# Testing / coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# VS Code
+.vscode/
+
+# Local env files
+.env
+
+# Temporary files
+*.log
+
+# Editor specific
+.idea/
+
+# Keep backup files from editors (~ suffix)
+*~
+*.py~
+
+# Ignore local video file
+vid.mp4
